@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WordDicBT", "WordDic\WordDic.vcxproj", "{DBE03312-BF6C-4C9C-8AAE-EA5AC2B26616}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WDDatas", "WDDatas\WDDatas.vcxproj", "{4D352C8F-D2D5-4FD3-A660-31BB70096375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE03312-BF6C-4C9C-8AAE-EA5AC2B26616}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DBE03312-BF6C-4C9C-8AAE-EA5AC2B26616}.Debug|Win32.Build.0 = Debug|Win32
+		{DBE03312-BF6C-4C9C-8AAE-EA5AC2B26616}.Release|Win32.ActiveCfg = Release|Win32
+		{DBE03312-BF6C-4C9C-8AAE-EA5AC2B26616}.Release|Win32.Build.0 = Release|Win32
+		{4D352C8F-D2D5-4FD3-A660-31BB70096375}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4D352C8F-D2D5-4FD3-A660-31BB70096375}.Debug|Win32.Build.0 = Debug|Win32
+		{4D352C8F-D2D5-4FD3-A660-31BB70096375}.Release|Win32.ActiveCfg = Release|Win32
+		{4D352C8F-D2D5-4FD3-A660-31BB70096375}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
